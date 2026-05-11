@@ -1,0 +1,58 @@
+Software License - Academic
+
+This Software License is granted by THE UNIVERSITY OF BRITISH COLUMBIA, a corporation continued under the University Act of British Columbia with offices at 103 6190 Agronomy Road, Vancouver, British Columbia, V6T 1Z3, to the individual downloading the software (Multisite data and analyses) package contents including all associated documentation (collectively the "Software"), as end user (the "Licensee"), on the following terms and conditions:
+
+PLEASE CAREFULLY READ THE TERMS AND CONDITIONS OF THIS AGREEMENT.  By copying, downloading, accessing or otherwise using the Software, the Licensee automatically agree to be bound by the terms of this Agreement. IF THE LICENSEE DOES NOT WISH TO BE BOUND BY THE TERMS OF THIS AGREEMENT, DO NOT COPY, DOWNLOAD, ACCESS OR OTHERWISE USE THE SOFTWARE.
+
+1. Grant of License
+ACADEMIC USE ONLY.  UBC hereby grants to the Licensee the non-exclusive non-transferable, non-sub-licensable right to use the Software for research and academic purposes but not for any commercial purposes whatsoever, on the terms and conditions specified herein. For greater certainty, Licensee may not make commercial use of either the Software or of any data created, produced or processed by the Software.
+
+2. License Fee and Payment
+The License Fee is $0.00. UBC may at its sole discretion provide services relating to customization of the Software, and support services, or installation and maintenance of the Software. 
+
+3. Ownership
+UBC retains all property, right, title, and interest in and to the Software including, without limitation, all trade-marks, trade names, copyrights, patents and other intellectual property rights in the Software. UBC specifically retains the right to grant licenses of the Software to other persons. The Licensee acknowledges that all documentation, inventions, discoveries, improvements, Software, copyright, know-how or other intellectual property, whether or not patentable or copyrightable, created by UBC prior to, during, or after the termination of, this License agreement, pertaining to the Software are and will remain the sole and absolute property of UBC.
+
+4. Copy and Use Restriction
+The Licensee will not, and will not authorize any third party to:
+1) make copies of the Software, other than a single backup copy, and any such copy together with the original must be kept in the Licensee's possession or control, wherein the Licensee shall reproduce and include the copyright notice of UBC on any backup copy;
+2) modify, improve, further develop, adapt, decompile, disassemble, translate into another computer language, create derivative works, or otherwise reverse engineer the Software;
+3) distribute, sell, lease, transfer, assign, trade, rent or publish the Software or any part thereof and/ or copies thereof, to others;
+4) license or sublicense the use of the Software to others;
+5) use the Software or any part thereof for any purpose other than internal academic, non-commercial research use, without their express permission;
+6) use the Software or any part thereof for diagnostic, preventive, therapeutic or any other clinical purposes;
+7) use the name of UBC or any trademark or logo of UBC in advertising, publicity, or otherwise;
+8) publish or present material that arises from the Licensees use of the Software, without acknowledging Dr. Todd Woodward as the source of the Software.
+Without limiting the generality of the foregoing, and except as expressly provided herein, the Licensee will not distribute, sell, lease, transfer, assign, or trade the Software to others.
+
+5. Term and Termination
+This Agreement is effective until terminated. This License may be terminated immediately by UBC if the Licensee breaches any term of this Agreement. The Licensee may terminate this Agreement at any time by stopping all use of the Software and destroying or deleting all copies of the Software licensed to the Licensee. After termination, the Licensee agrees to return to UBC any documentation or other material relating to the Software, and will have no further right to use the Software. The "Copy and Use Restrictions", "Termination", "Confidentiality" "Limited Warranty", "Indemnity" and "Miscellaneous" sections of this Agreement will however survive any termination of this Agreement.
+
+6. Update Policy
+UBC may produce, from time to time, modifications and/or updates of the Software. Such modifications and updates may be made available as appropriate to Licensees at the sole discretion of UBC. The Licensee acknowledges that UBC is not in the business of providing update or support services, and that the frequency of updates and levels of any support which can be offered by UBC will at all times be subject to UBC having the necessary resources to reasonably provide such updates or services.
+
+7. Confidentiality
+All confidential information, documentation, or computer code which UBC may at any time disclose to the Licensee relating to the Software is proprietary and confidential.� The Licensee agrees that it shall use any such confidential information solely in accordance with the provisions of this Agreement and will not at any time disclose such confidential information, directly or indirectly, to any third party without UBC's prior written consent.
+
+8. No Warranty
+THE LICENSEE ACKNOWLEDGES AND AGREES THAT THE SOFTWARE IS PROVIDED TO THE LICENSEE "AS IS", AND THAT UBC MAKES NO REPRESENTATIONS AND EXTENDS NO WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED.� THERE ARE NO EXPRESS OR IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS OF THE SOFTWARE FOR A PARTICULAR PURPOSE, OR THAT THE USE OF THE SOFTWARE WILL NOT INFRINGE ANY PATENT, COPYRIGHT, TRADEMARK OR OTHER RIGHTS.
+In particular, nothing in this agreement is or will be construed as:
+-	a warranty or representation by UBC as to the validity or scope of any copyright or other intellectual property rights in the Software;
+       -	an obligation to furnish any software, or technical information other than the Software;
+-	an obligation on UBC to correct malfunctions that arise in any version of the Software delivered to the licensee.
+UBC does not warrant that the Software is free from malfunctions, nor that any malfunctions can or will be corrected or that UBC will develop or provide to the Licensee any operations, capabilities or features not present in the version of the Software first delivered to the Licensee under this Agreement.
+
+9. Clinical Use Advisory
+The Software is an experimental technology and has not been fully tested or approved for use in connection with any clinical use.  The Software and any content or other information contained in the Software, accessed through the Software or provided by the Software is for informational purposes only and in no way is intended to provide any medical or clinical judgment or individualized patient care. 
+
+10. Limitation of Liability
+UBC'S TOTAL LIABILITY, WHETHER UNDER THE EXPRESS OR IMPLIED TERMS OF THIS AGREEMENT, IN TORT (INCLUDING NEGLIGENCE), OR AT COMMON LAW, FOR ANY LOSS OR DAMAGE SUFFERED BY THE LICENSEE WHETHER DIRECT, INDIRECT OR SPECIAL, OR ANY OTHER SIMILAR OR LIKE DAMAGE THAT MAY ARISE OR DOES ARISE FROM ANY BREACHES OF THIS AGREEMENT BY UBC, ITS BOARD OF GOVERNORS, OFFICERS, EMPLOYEES, FACULTY, STUDENTS, STAFF OR AGENTS, IS STRICTLY LIMITED TO ONE DOLLAR. IN NO EVENT WILL UBC BE LIABLE FOR ANY LOST REVENUE, PROFIT, BUSINESS INTERRUPTION OR LOSS OF DATA, OR FOR SPECIAL, INDIRECT, CONSEQUENTIAL, INCIDENTAL OR PUNITIVE DAMAGES, HOWEVER CAUSED AND REGARDLESS OF THE THEORY OF LIABILITY, ARISING OUT OF OR RELATED TO THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF UBC HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+11. Indemnity
+THE LICENSEE AGREES TO INDEMNIFY, DEFEND AND HOLD HARMLESS UBC, ITS BOARD OF GOVERNORS, OFFICERS, EMPLOYEES, FACULTY, STUDENTS, STAFF AND AGENTS FROM AND AGAINST ANY AND ALL LIABILITY, LOSS, DAMAGE, ACTION, CLAIM OR EXPENSE (INCLUDING ATTORNEY'S FEES AND COSTS AT TRIAL AND APPELLATE LEVELS) IN CONNECTION WITH ANY CLAIM, SUIT, ACTION, DEMAND OR JUDGMENT ARISING OUT OF CONNECTED WITH, RESULTING FROM, OR SUSTAINED AS A RESULT OF THE LICENSEE'S USE OF THE SOFTWARE OR IN EXECUTING AND PERFORMING THIS AGREEMENT
+
+12. Miscellaneous
+       This Agreement will be governed and interpreted according to the laws of British Columbia, Canada. The Licensee agrees that by accepting the terms of this Agreement and using the Software the Licensee has attorned to the exclusive jurisdiction of the courts of competent authority in the Province of British Columbia.
+       This Agreement is the entire agreement between the Licensee and UBC relating to this subject matter.
+       This License contains the entire agreement and understanding between the Licensee and UBC with respect to the subject matter hereof and supersedes any prior agreement or understanding whether oral or written, relating to the subject matter of this License.  This License may only be modified by a written agreement signed by UBC.  The license takes effect on the date of installation. 
+       The provisions of this Agreement are severable and if any provision is determined to be invalid or unenforceable, that will not affect the validity or enforceability of the remaining provisions of the Agreement.
